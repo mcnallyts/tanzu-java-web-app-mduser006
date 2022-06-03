@@ -15,3 +15,5 @@ spec:
       url: https://github.com/sample-accelerators/tanzu-java-web-app-mduser006
       ref:
         branch: main
+cd apps.tanzu.vmware.com/workload-type:ls
+
